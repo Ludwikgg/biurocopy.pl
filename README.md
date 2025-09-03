@@ -1,0 +1,1 @@
+# biurocopy.pl
